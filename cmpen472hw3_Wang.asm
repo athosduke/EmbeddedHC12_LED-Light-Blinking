@@ -2,8 +2,7 @@
 *
 * Title:                LED Light Blinking
 * 
-* Objective:            CSE472 Homework 3 sample program
-*                       (in-class-room demonstration)
+* Objective:            CSE472 Homework 3 
 *
 * Revision:             V4.5
 *
